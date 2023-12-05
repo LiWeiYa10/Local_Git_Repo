@@ -1,0 +1,5 @@
+# I dont want to track the following file from my repo:
+password.txt
+
+# I also want git to exclude the following directories:
+do_not_track/
